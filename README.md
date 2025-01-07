@@ -4,6 +4,7 @@ I'm **Bristy Akter**, an enthusiastic learner in the field of **web development*
 
 ### About Me
 👩‍💻 **Aspiring Frontend Developer | Exploring Backend Technologies**
+
 🌟 I am passionate about crafting user-friendly interfaces and seamless web experiences. While my primary focus is on mastering frontend development, I'm also diving into backend technologies to build complete and scalable web applications.
 
 ### What I Do
