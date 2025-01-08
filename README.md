@@ -8,8 +8,8 @@ I'm **Bristy Akter**, an enthusiastic learner in the field of **web development*
 🌟 I am passionate about crafting user-friendly interfaces and seamless web experiences. While my primary focus is on mastering frontend development, I'm also diving into backend technologies to build complete and scalable web applications.
 
 ### What I Do
-- 🌟 Frontend Development: Skilled in crafting responsive and interactive designs using technologies like HTML, CSS, Tailwind CSS, JavaScript, Firebase and React.
-- 🌱 Backend Exploration: Currently expanding my knowledge in Node.js, MongoDB, and backend frameworks to build full-stack web applications.
+- 🌟 **Frontend Development:** Skilled in crafting responsive and interactive designs using technologies like HTML, CSS, Tailwind CSS, JavaScript, Firebase and React.
+- 🌱 **Backend Exploration:** Currently expanding my knowledge in Node.js, MongoDB, and backend frameworks to build full-stack web applications.
 
 ### Goals 🎯
 - 🔭 To master modern web development frameworks and tools.
