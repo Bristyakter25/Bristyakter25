@@ -1,4 +1,5 @@
-!(https://i.ibb.co.com/wZrDWfY3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
+![Banner](https://i.ibb.co/wZrDWfY3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
+
 
 ## Hi there 👋
 
