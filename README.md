@@ -67,7 +67,7 @@ I'm **Bristy Akter**, an enthusiastic learner in the field of **web development*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bristyakter25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bristyakter25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://Bristyakter25-streak-stats.vercel.app/?user=Bristyakter25)]
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bristyakter25"/></a>
 </div>
 
 
